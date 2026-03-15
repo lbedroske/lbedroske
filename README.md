@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/lbedroske/lbedroske/blob/main/banner.png?raw=true" alt="Lucas Bedroske - Aspiring Data Scientist | Operations Research Focus" width="100%" />
-</p>
+![Lucas Bedroske - Data Science & Operations Research](https://github.com/lbedroske/lbedroske/blob/main/banner.png?raw=true)
 # Hi, I'm Lucas Bedroske 👋
 
 **Aspiring Data Scientist** with a focus on **Operations Research & Optimization**.  
@@ -25,3 +23,5 @@ Pursuing BS in Data Science (Operations Analysis) at Lakeland University – Exp
 - X: @LBedroske  
 
 Open to remote data science/analytics internships Summer/Fall 2026. Reach out if you're hiring!
+
+Add header banner image to README
