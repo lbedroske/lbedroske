@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lbedroske/lbedroske/blob/main/images/my-banner.png
-
-?raw=true" alt="Lucas Bedroske - Aspiring Data Scientist | Operations Research Focus" width="100%" />
+  <img src="https://github.com/lbedroske/lbedroske/blob/main/banner.png?raw=true" alt="Lucas Bedroske - Aspiring Data Scientist | Operations Research Focus" width="100%" />
 </p>
 # Hi, I'm Lucas Bedroske 👋
 
