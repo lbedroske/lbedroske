@@ -1,4 +1,7 @@
-![Lucas Bedroske - Data Science & Operations Research](https://github.com/lbedroske/lbedroske/blob/main/banner.png?raw=true)
+<p align="center">
+  <img src="https://github.com/lbedroske/lbedroske/blob/main/Sleek GitHub Profile Header with Gradient.png?raw=true" alt="Lucas Bedroske - Aspiring Data Scientist | Operations Research Focus" width="100%" />
+</p>
+
 # Hi, I'm Lucas Bedroske 👋
 
 **Aspiring Data Scientist** with a focus on **Operations Research & Optimization**.  
