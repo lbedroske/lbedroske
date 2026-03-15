@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Lucas Bedroske 👋
 
-<!--
-**lbedroske/lbedroske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Scientist** with a focus on **Operations Research & Optimization**.  
+Former high school math teacher (strong foundation in stats, modeling, and explaining complex ideas).  
+Pursuing BS in Data Science (Operations Analysis) at Lakeland University – Expected November 2026, 4.0 GPA.
 
-Here are some ideas to get you started:
+### Currently Building
+- Prototyping ed-tech tools (e.g., spaced-repetition scheduler using learning science).
+- Exploring linear programming/optimization for retail/supply chain problems (inspired by DAT401 Operations Research class).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Projects
+- **[EchoLearn](https://github.com/lbedroske/EchoLearn)**: Deployed Flask/SQLAlchemy web app for educators using Ebbinghaus Forgetting Curve. Live demo: https://echolearn-2voe.onrender.com  
+- More coming: Retail inventory optimization with PuLP (Python linear programming).
+
+### Skills
+- Python (pandas, Flask, SQLAlchemy), SQL (joins, GROUP BY/HAVING), C++  
+- Power BI (self-taught), Git, deployment (Render)  
+- Math/Stats teaching background → data storytelling & insights communication
+
+### Let's Connect
+- LinkedIn: www.linkedin.com/in/lucas-bedroske-2a792432b
+- X: @LBedroske  
+
+Open to remote data science/analytics internships Summer/Fall 2026. Reach out if you're hiring!
