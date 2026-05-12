@@ -5,7 +5,7 @@
 # Hi, I'm Lucas Bedroske 👋
 
 **Aspiring Data Scientist** with a focus on **Operations Research & Optimization**.  
-Former high school math teacher (strong foundation in stats, modeling, and explaining complex ideas).  
+Data science and analytics professional focused on Python, SQL, optimization modeling, and clear communication of insights. I build structured, reliable workflows and practical analytical tools that support decision‑making in operations and sports environments.  
 Pursuing BS in Data Science (Operations Analysis) at Lakeland University – Expected November 2026, 4.0 GPA.
 
 ### Currently Building
