@@ -23,8 +23,6 @@ Pursuing BS in Data Science (Operations Analysis) at Lakeland University – Exp
 
 ### Let's Connect
 - LinkedIn: www.linkedin.com/in/lucasbedroske
-Vanity URL name
-
 - X: @LBedroske  
 
-Open to remote data science/analytics internships Summer/Fall 2026. Reach out if you're hiring!
+Reach out if you're hiring!
