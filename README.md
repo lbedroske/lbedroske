@@ -13,8 +13,8 @@ Pursuing BS in Data Science (Operations Analysis) at Lakeland University – Exp
 - Exploring linear programming/optimization for retail/supply chain problems (inspired by DAT401 Operations Research class).
 
 ### Key Projects
-- **[EchoLearn](https://github.com/lbedroske/EchoLearn)**: Deployed Flask/SQLAlchemy web app for educators using Ebbinghaus Forgetting Curve. Live demo: https://echolearn-2voe.onrender.com  
-- More coming: Retail inventory optimization with PuLP (Python linear programming).
+- **[EchoLearn](https://github.com/lbedroske/EchoLearn)**: Deployed Flask/SQLAlchemy web app for educators using Ebbinghaus Forgetting Curve. Currently archived: https://echolearn-2voe.onrender.com
+- Ice depth analysis   
 
 ### Skills
 - Python (pandas, Flask, SQLAlchemy), SQL (joins, GROUP BY/HAVING), C++  
